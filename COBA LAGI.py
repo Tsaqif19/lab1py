@@ -1,0 +1,8 @@
+n=int(input("Masukkan bilangan"))
+max=0
+
+while (n !=0):
+    if (n > max):
+        max=n
+
+print("max")
